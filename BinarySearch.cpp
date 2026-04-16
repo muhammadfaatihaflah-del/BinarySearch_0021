@@ -23,6 +23,16 @@ void input()
     }
     cout <<"\n==============================\n";
     cout <<"       Masukan Elemen Array      \n";
+    cout <<"\n==============================\n";
+    
+    for(int i = 0; i < npanjang;i++)
+    {
+        cout << "data ke -" << (i+1)<< " = ";
+        cin >> element[i];
+    }
+
 }
+
+
 
 
