@@ -18,8 +18,11 @@ void input()
         }
         else
         {
-            cout << "\n[!] Jumlah elemen tidak boleh lebih dari 10. silahkan coba lagi.\n"
+            cout << "\n[!] Jumlah elemen tidak boleh lebih dari 10. silahkan coba lagi.\n";
         }
     }
+    cout <<"\n==============================\n";
+    cout <<"       Masukan Elemen Array      \n";
 }
+
 
