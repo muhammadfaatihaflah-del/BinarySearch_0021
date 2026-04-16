@@ -5,3 +5,8 @@ int element[10];
 int panjang;
 int x;
 
+void input()
+{
+    
+}
+
